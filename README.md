@@ -6,10 +6,10 @@ This repository contains a collection of various HTML projects that showcase my 
 
 1. **Personal Portfolio Website**  
    A simple yet elegant portfolio to showcase my skills, projects, and experience as a web developer.  
-   Technologies: HTML, CSS, JavaScript
+   Technologies: HTML, CSS, JavaScript(for some projects)
 
 
-More projects will be added as I continue to build and expand my expertise in HTML and front-end web development.
+More projects will be added soon.
 
 ## Why This Repository?
 
