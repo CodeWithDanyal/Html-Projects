@@ -25,4 +25,4 @@ This repository serves as a personal archive of my work in HTML and related tech
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Danyal-Khan/HTML-Projects.git
+   git clone https://github.com/CodeWithDanyal/HTML-Projects.git
