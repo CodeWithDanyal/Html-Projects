@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-This project is a personal portfolio website built using HTML and CSS. The site introduces **Danyal Khan** as a passionate web developer, showcasing his skills, projects, and professional experience.
+This project is a personal portfolio website built using HTML. The site introduces **Danyal Khan** as a passionate web developer, showcasing his skills, projects, and professional experience.
 
 ## Key Features:
 - **Responsive Navigation Bar**: Easy browsing across different sections like Home, About, Projects, Experience, and Contact.
@@ -11,7 +11,6 @@ This project is a personal portfolio website built using HTML and CSS. The site 
 
 ## Technologies Used:
 - **HTML5**
-- **CSS3**
 
 Feel free to explore the code and use it as a reference for building similar portfolio websites.
 
